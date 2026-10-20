@@ -1,0 +1,332 @@
+{
+  "format": "yeahbaby.sample-index",
+  "formatVersion": 1,
+  "packages": [
+    {
+      "id": "hand-percussion",
+      "name": "Hand Percussion",
+      "version": "1.0.0",
+      "summary": "Bongos, congas, cabasa, claves, woodblocks and triangle, with velocity layers.",
+      "author": "yeah baby. (curated from VCSL)",
+      "path": "hand-percussion/",
+      "bytes": 1873795,
+      "license": "CC0-1.0",
+      "instruments": [
+        {
+          "name": "Hand Percussion",
+          "kind": "drumKit"
+        }
+      ],
+      "files": [
+        {
+          "path": "manifest.json",
+          "bytes": 16183,
+          "sha256": "33acf734f708e85def1665b33f596e7a957ed2cffc9b447e870c41fa9859280c"
+        },
+        {
+          "path": "bongo-high-1.wav",
+          "bytes": 52964,
+          "sha256": "babc312ace884997076a78bb731d8850fba97fd1c48075d33537e086ef00cee5"
+        },
+        {
+          "path": "bongo-high-2.wav",
+          "bytes": 52964,
+          "sha256": "ef0976fdf041455155d115f25f4e681d6f31aee5512d60e1342d1a4b19549bba"
+        },
+        {
+          "path": "bongo-high-3.wav",
+          "bytes": 52964,
+          "sha256": "1c33215fc523d63840e1c51b3157af28a3e7f86152a8cac942039084d5130ec8"
+        },
+        {
+          "path": "bongo-low-1.wav",
+          "bytes": 61782,
+          "sha256": "fe1a8092eae05009a08a294e447460b9a8bf8a195598a8ab92ab7c49d1aea8ae"
+        },
+        {
+          "path": "bongo-low-2.wav",
+          "bytes": 61782,
+          "sha256": "2efe484be2e47c8525ddf4318f14f5dc07b5f326270635e0f64e220287bb65dc"
+        },
+        {
+          "path": "bongo-low-3.wav",
+          "bytes": 61782,
+          "sha256": "bc475b24f9f9958079d316a4e236b0b30ce9c30372bb61ff0ff58540ab7dab7a"
+        },
+        {
+          "path": "cabasa-1.wav",
+          "bytes": 35324,
+          "sha256": "7d39ffe2f5ebebae892d06cefa4913237409af6099a57a40da1219fc33b85265"
+        },
+        {
+          "path": "claves-1.wav",
+          "bytes": 35324,
+          "sha256": "a1a0f4fb482527824df9e0445184f7e01c72a744d24a57debfa61128349e26fc"
+        },
+        {
+          "path": "claves-2.wav",
+          "bytes": 35324,
+          "sha256": "d11ffe8caf669a1d8aa9a5035ba867dc346fcee19e644d9263dfcb9e5ba7d732"
+        },
+        {
+          "path": "claves-3.wav",
+          "bytes": 35324,
+          "sha256": "3d836485ba6a90dc59a55fac55b1740f785a586891a9d305c913620254c6ba6b"
+        },
+        {
+          "path": "conga-open-1.wav",
+          "bytes": 79424,
+          "sha256": "929c6486bf6a3c8dc29ae86bb10018e050a9fb83dca3764f5910a86357342310"
+        },
+        {
+          "path": "conga-open-2.wav",
+          "bytes": 69998,
+          "sha256": "89a6c79e6faae6846c15bebf07b9704901f35e46e73940ab54fdeb27f10da5e6"
+        },
+        {
+          "path": "conga-open-3.wav",
+          "bytes": 79424,
+          "sha256": "7ba0f5b59d04522e87334cd166b3798ec5dab4581732a06df124d597007ede6e"
+        },
+        {
+          "path": "conga-slap-1.wav",
+          "bytes": 44144,
+          "sha256": "6424532da76118dc129fe50a74bdf2e82858a7615d7983430f2dae60e5193f35"
+        },
+        {
+          "path": "conga-slap-2.wav",
+          "bytes": 44144,
+          "sha256": "f61e497df1b39529925acf2c2fbf2db793ccdbffcb6f1d42b35bbf039ac0ad24"
+        },
+        {
+          "path": "quinto-open-1.wav",
+          "bytes": 58588,
+          "sha256": "abab6118c7daf653149035ffb60b6601480744050d3de616904ef5176523c63e"
+        },
+        {
+          "path": "quinto-open-2.wav",
+          "bytes": 70604,
+          "sha256": "8d1d3334c593d549008ac2731e07982f588e4e12966911957170b46a43167eae"
+        },
+        {
+          "path": "quinto-open-3.wav",
+          "bytes": 70604,
+          "sha256": "ed520178c7234884de532c48ba19d9f1982cedb660cf5ad65950a86cc3820e06"
+        },
+        {
+          "path": "quinto-slap-1.wav",
+          "bytes": 44144,
+          "sha256": "63dc132e161811f56c3ecaf1528e5794f80ae5624ed4a4fbd15e62416256f687"
+        },
+        {
+          "path": "quinto-slap-2.wav",
+          "bytes": 44144,
+          "sha256": "78f23a26ff8ccc7736fb30254b48750cb89215abd7ec2aa3e6a92251f754920b"
+        },
+        {
+          "path": "triangle-mute-1.wav",
+          "bytes": 35324,
+          "sha256": "014fca302b30cba45dd49dbe439745aa5eac86f6bcca78328056010cddd80cb8"
+        },
+        {
+          "path": "triangle-open-1.wav",
+          "bytes": 220544,
+          "sha256": "eb3f9cf35bd46cc5271529307d00598d5d8cd9b20460445ed48f22b0211dad09"
+        },
+        {
+          "path": "triangle-open-2.wav",
+          "bytes": 220544,
+          "sha256": "38def5ab01daaa5602551edf33298e4eba8af3993ea9665fd3271a6d6ab79acf"
+        },
+        {
+          "path": "tumba-open-1.wav",
+          "bytes": 74636,
+          "sha256": "3b46cfc4c71c593930b79c16a64fb419956c3b35dd408c36f5a615d9c2e27387"
+        },
+        {
+          "path": "tumba-open-2.wav",
+          "bytes": 64572,
+          "sha256": "e18b572f7359f73f9fd23e41296841d319fed899ebaebc6f50fff9350a1528eb"
+        },
+        {
+          "path": "tumba-open-3.wav",
+          "bytes": 80592,
+          "sha256": "417dfbcb57ac7ff265979cfabcdb13ed31a55ff61c8801dc8e3b4c04902077a2"
+        },
+        {
+          "path": "wood-high-1.wav",
+          "bytes": 35324,
+          "sha256": "b41c6b75a4eada0ee77fd01aea79270c83f0a3d64d29a5099e26582596874e47"
+        },
+        {
+          "path": "wood-low-1.wav",
+          "bytes": 35324,
+          "sha256": "4f2f36fe02688ff427e414c413dc229544268d31ee5ba822156c1b8be6952c00"
+        }
+      ]
+    },
+    {
+      "id": "harpsichord",
+      "name": "Harpsichord",
+      "version": "1.0.0",
+      "summary": "A French harpsichord from VCSL, sampled every two semitones.",
+      "author": "yeah baby. (curated from VCSL)",
+      "path": "harpsichord/",
+      "bytes": 6532247,
+      "license": "CC0-1.0",
+      "instruments": [
+        {
+          "name": "Harpsichord",
+          "kind": "instrument"
+        }
+      ],
+      "files": [
+        {
+          "path": "manifest.json",
+          "bytes": 15981,
+          "sha256": "1ffacaa67b748aee940896fa07257bbc9bc14b2d333995a4693feb066e18ca97"
+        },
+        {
+          "path": "harpsichord-As1.wav",
+          "bytes": 308744,
+          "sha256": "62f202d6a43dc47f81ff01abd905179b1a60f96c63740135b11dc151e67bc923"
+        },
+        {
+          "path": "harpsichord-As2.wav",
+          "bytes": 271994,
+          "sha256": "9af3c7780e7f22863794f9ad0a594bbd9155923bf1b53cdf0cd6ab920738584b"
+        },
+        {
+          "path": "harpsichord-As3.wav",
+          "bytes": 227894,
+          "sha256": "fab2018c54d888d249ac71c18852d4263690541c405b7f912361b578b1e51d35"
+        },
+        {
+          "path": "harpsichord-As4.wav",
+          "bytes": 188694,
+          "sha256": "b06140e677608f501d6d5ed8c4fbb38eb719c0905bad666e8c8f4ab226735130"
+        },
+        {
+          "path": "harpsichord-As5.wav",
+          "bytes": 150474,
+          "sha256": "adf3b3bb5123e2dbc8036aae6b3e75da2c35af18664f786dd152fb12be2c58fd"
+        },
+        {
+          "path": "harpsichord-C2.wav",
+          "bytes": 308744,
+          "sha256": "66c6bf86d6a4192e32170a1f2ec95a60766adc598533945cfc88216625b5f46d"
+        },
+        {
+          "path": "harpsichord-C3.wav",
+          "bytes": 264644,
+          "sha256": "39d07b6532ccb241e0e92fa994ad9a1e4ca36a40ac77dae317d1c509eaa98a98"
+        },
+        {
+          "path": "harpsichord-C4.wav",
+          "bytes": 220544,
+          "sha256": "d096b173fcfa6f28aba024a84c735d69a1123c3ad6cc94a59ad45d697be3cb0a"
+        },
+        {
+          "path": "harpsichord-C5.wav",
+          "bytes": 182322,
+          "sha256": "c19177f0438a27d9194b1e13241f1d794430041d36d1209ad4f02d00bc2ae99d"
+        },
+        {
+          "path": "harpsichord-C6.wav",
+          "bytes": 144104,
+          "sha256": "6e6a1e6ea943113a4c98b9234e6d801f3f976f0f59800b3e36b02628fd1f54e3"
+        },
+        {
+          "path": "harpsichord-D1.wav",
+          "bytes": 308744,
+          "sha256": "98f0f5f1c80be6d53a1851f0d9bee8629430fef97df880f849aebd33104681b4"
+        },
+        {
+          "path": "harpsichord-D2.wav",
+          "bytes": 301394,
+          "sha256": "53290836ea62aca993c5a7bc4667ce1be5ea57b3f015ca7fff04c5de62ea85f6"
+        },
+        {
+          "path": "harpsichord-D3.wav",
+          "bytes": 257294,
+          "sha256": "0595cb5a2e8a4bb55ed4db93cfb19265e0d783b7060e15a910d479fc7008cfdb"
+        },
+        {
+          "path": "harpsichord-D4.wav",
+          "bytes": 214172,
+          "sha256": "71f5abb6b5e2ce66f5d3f8dd982078f3e92530c62d212867aede59bef08e3308"
+        },
+        {
+          "path": "harpsichord-D5.wav",
+          "bytes": 175954,
+          "sha256": "dd0c370e62c8b1384de1d6ad65055e20cdc6b7816591320764416f66260abbe4"
+        },
+        {
+          "path": "harpsichord-E2.wav",
+          "bytes": 294044,
+          "sha256": "22e22a0ef41919cc8d95720a4c30330a43e65a5dc65c166fbc4c33ca60329865"
+        },
+        {
+          "path": "harpsichord-E3.wav",
+          "bytes": 249944,
+          "sha256": "5233d0f264cf06372691edafcfd5eebbe865bdde579bca73a87c22c599ecc928"
+        },
+        {
+          "path": "harpsichord-E4.wav",
+          "bytes": 207804,
+          "sha256": "ff1630397bcaf28026e2f5faa080eb1bfd7cd18f9aa4f5e5a16367e007674e95"
+        },
+        {
+          "path": "harpsichord-E5.wav",
+          "bytes": 169582,
+          "sha256": "eae479e9213dfc9c10e976143f14e7958b477d1d7746a1bdf17df169d827ff97"
+        },
+        {
+          "path": "harpsichord-Fs2.wav",
+          "bytes": 286694,
+          "sha256": "aaff0f622fd46f8260a4d8e7602455b624943923a7d24cd1c2d837369eac0585"
+        },
+        {
+          "path": "harpsichord-Fs3.wav",
+          "bytes": 242594,
+          "sha256": "62f448c1729f65677ca5217a2752b34f40c7d1f266ee19c467f90942e8ae4ec3"
+        },
+        {
+          "path": "harpsichord-Fs4.wav",
+          "bytes": 201434,
+          "sha256": "ae7b0ea73f9a52f4cf7148e40efccf3b95c0222c5dea10ebdd5f6c0550113443"
+        },
+        {
+          "path": "harpsichord-Fs5.wav",
+          "bytes": 163214,
+          "sha256": "63b7ea8f66b06c01a8e4cc7cee4dc108d9d53e50f50b181391b96ab868f8e42a"
+        },
+        {
+          "path": "harpsichord-Gs1.wav",
+          "bytes": 308744,
+          "sha256": "c2a6781cb20b17392f90b97238048f7d557a33ded5e37e2c97ba2ee1949b8183"
+        },
+        {
+          "path": "harpsichord-Gs2.wav",
+          "bytes": 279344,
+          "sha256": "7a1ac2484df04534662c4c639c8d28665aa9c9834a211860c2b0b240c4dd197b"
+        },
+        {
+          "path": "harpsichord-Gs3.wav",
+          "bytes": 235244,
+          "sha256": "6a9c8a329cf0f3db60491722915e7ec63657481c421c5feda7443eb3b34d8918"
+        },
+        {
+          "path": "harpsichord-Gs4.wav",
+          "bytes": 195064,
+          "sha256": "8de4e7a7e095089a8175377a249d9939b7bcd7146f0ff7a8405fb4bb7c9295e9"
+        },
+        {
+          "path": "harpsichord-Gs5.wav",
+          "bytes": 156844,
+          "sha256": "816b6f99dacc18891f90932a1b3340e9f0caf48fd450b7d5163b298aabdee66d"
+        }
+      ]
+    }
+  ]
+}

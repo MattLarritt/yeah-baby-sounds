@@ -1,0 +1,315 @@
+{
+  "format": "yeahbaby.sample-package",
+  "formatVersion": 1,
+  "id": "harpsichord",
+  "name": "Harpsichord",
+  "version": "1.0.0",
+  "author": "yeah baby. (curated from VCSL)",
+  "summary": "A French harpsichord from VCSL, sampled every two semitones.",
+  "license": {
+    "id": "CC0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": null
+  },
+  "sources": [
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_A#0_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_A%230_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "cd1aa9ff623f340bba9d20e853a17d9891e7ce4fbbf3fef3bec365cd571bc793"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_A#1_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_A%231_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "75765a8d665ae519945e3da120052d620eab15ada1008d959a70379f4def6576"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_A#2_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_A%232_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "13ef6fa88c2f50a37a5f74e2f15531fe5e67eccbc955adedd7162c380f0cb933"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_A#3_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_A%233_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "33e39db50a57d2108749b3c8170b276190d7384705ec026973daa93da07c8990"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_A#4_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_A%234_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "5a6b6246e722513b39fab14a9b9ce330ff026201c256d6809999dd078e36d3a2"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_C1_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_C1_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "251bdc793c94771f99a736b5c7946da6278535f9e614c3b9fe58a965dfd0d774"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_C2_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_C2_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "9859e034d9e59dd7f3878e4bd52f05263b2780f5b697c7d87881ad8f880be98f"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_C3_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_C3_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "cda5d21cdf4581517933859b8557e32745b5115ba243f63fef757fee025390de"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_C4_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_C4_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "57b13d0ce01a8ad50c09ad1d7ecda3df1298c73ab9dc49988fbdf9dc2ce277a5"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_C5_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_C5_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "63132dd11bb1a0b9ca09b89183e86c8020afadc7d48812432448450b354fe3cd"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_D0_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_D0_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "52ac687aeeb7593c2ea75162c98a7569b715864d5c3579911c54fa40f3a250a9"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_D1_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_D1_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "163a626f80bc1ffab7b74c2fb581d93aae5ff2f11dc4a64d641545851aa875fd"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_D2_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_D2_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "c5551574bde8881040064d6fa497782fa84207ea87ada1d9ca0f8cf05e57bcda"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_D3_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_D3_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "4ebb136e126cb74715c9201345383fab4f21962ed301d2aa805e383c9542b9e8"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_D4_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_D4_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "92dbadc65d3d8263671ff17057a4ec64043fccab22ad22eae4b08c4204afc9ff"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_E1_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_E1_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "3db62e70032fc17b1e7a80f17e1e0eb43be5869aa218baa31343f289c0321ece"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_E2_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_E2_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "e816d65c210a5e398cfda257357f5bef49d6db70587046a6b5b39fa5f73d3ad5"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_E3_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_E3_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "36671c9d8b548eccdd01ec7a795df3e4be3951cd3b80fa973851cb027c96c8f7"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_E4_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_E4_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "ba938d908943ff8f77434a07298a11f53257a3c02dc8e5dd50d1095c235bf5af"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_F#1_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_F%231_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "f65ebd89ff31eb0664c0d1d31c18e30ce68718227470ed9062a957b20325f185"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_F#2_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_F%232_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "27a5c43fa40e83a26ba4bbe8e7d00a8a593adb4f219cbed369447a18bb835135"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_F#3_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_F%233_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "d772b155098456ab2ba771b712ab5aa56c95f6b650fe5e4316d591162fbdb6a0"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_F#4_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_F%234_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "c921aa5d861c8e1429fae1b03b7ebe93883258f85bd13515c2d6e08e5a126f0a"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_G#0_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_G%230_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "04e28982682db2a83c56de810a045bb2cd58a04b4b57495c4232ad7c97053791"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_G#1_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_G%231_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "8044c0c77d48e1f2181e1e8b3c560d056ab466a73cb418e12d6a05a08ca6d237"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_G#2_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_G%232_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "0c03a83cf5eb659f89cd1ef7f61da198ce0c111c68ca3c38ca39cf10b0df2a26"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_G#3_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_G%233_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "d065001d0ef782931cd18b2b38b5081654002bb43f8f7c15138cdd5bab5a6aa8"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Chordophones/Zithers/Harpsichord, French/Sustains/Harpsi2_Normal_G#4_rr1_Main.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Chordophones/Zithers/Harpsichord%2C%20French/Sustains/Harpsi2_Normal_G%234_rr1_Main.wav",
+      "license": "CC0-1.0",
+      "sha256": "f5869e65847aa9eaa9b352a1ae4579fb0403e0b0c72193c5509dac4b9a1ab55e"
+    }
+  ],
+  "instruments": [
+    {
+      "id": "harpsichord",
+      "name": "Harpsichord",
+      "kind": "instrument",
+      "category": "Keys",
+      "release": 0.25,
+      "velocityTracking": 0.3,
+      "zones": [
+        {
+          "file": "harpsichord-As1.wav",
+          "root": "A#1"
+        },
+        {
+          "file": "harpsichord-As2.wav",
+          "root": "A#2"
+        },
+        {
+          "file": "harpsichord-As3.wav",
+          "root": "A#3"
+        },
+        {
+          "file": "harpsichord-As4.wav",
+          "root": "A#4"
+        },
+        {
+          "file": "harpsichord-As5.wav",
+          "root": "A#5",
+          "tune": 6
+        },
+        {
+          "file": "harpsichord-C2.wav",
+          "root": "C2"
+        },
+        {
+          "file": "harpsichord-C3.wav",
+          "root": "C3"
+        },
+        {
+          "file": "harpsichord-C4.wav",
+          "root": "C4"
+        },
+        {
+          "file": "harpsichord-C5.wav",
+          "root": "C5"
+        },
+        {
+          "file": "harpsichord-C6.wav",
+          "root": "C6"
+        },
+        {
+          "file": "harpsichord-D1.wav",
+          "root": "D1",
+          "tune": 9
+        },
+        {
+          "file": "harpsichord-D2.wav",
+          "root": "D2",
+          "tune": 6
+        },
+        {
+          "file": "harpsichord-D3.wav",
+          "root": "D3"
+        },
+        {
+          "file": "harpsichord-D4.wav",
+          "root": "D4"
+        },
+        {
+          "file": "harpsichord-D5.wav",
+          "root": "D5"
+        },
+        {
+          "file": "harpsichord-E2.wav",
+          "root": "E2",
+          "tune": 7
+        },
+        {
+          "file": "harpsichord-E3.wav",
+          "root": "E3"
+        },
+        {
+          "file": "harpsichord-E4.wav",
+          "root": "E4"
+        },
+        {
+          "file": "harpsichord-E5.wav",
+          "root": "E5",
+          "tune": 5
+        },
+        {
+          "file": "harpsichord-Fs2.wav",
+          "root": "F#2",
+          "tune": 5
+        },
+        {
+          "file": "harpsichord-Fs3.wav",
+          "root": "F#3"
+        },
+        {
+          "file": "harpsichord-Fs4.wav",
+          "root": "F#4"
+        },
+        {
+          "file": "harpsichord-Fs5.wav",
+          "root": "F#5"
+        },
+        {
+          "file": "harpsichord-Gs1.wav",
+          "root": "G#1"
+        },
+        {
+          "file": "harpsichord-Gs2.wav",
+          "root": "G#2",
+          "tune": 4
+        },
+        {
+          "file": "harpsichord-Gs3.wav",
+          "root": "G#3"
+        },
+        {
+          "file": "harpsichord-Gs4.wav",
+          "root": "G#4"
+        },
+        {
+          "file": "harpsichord-Gs5.wav",
+          "root": "G#5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "format": "yeahbaby.sample-package",
+  "formatVersion": 1,
+  "id": "hand-percussion",
+  "name": "Hand Percussion",
+  "version": "1.0.0",
+  "author": "yeah baby. (curated from VCSL)",
+  "summary": "Bongos, congas, cabasa, claves, woodblocks and triangle, with velocity layers.",
+  "license": {
+    "id": "CC0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": null
+  },
+  "sources": [
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Bongos/BongoH_Hit1_v1_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bongos/BongoH_Hit1_v1_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "7ebcd2149e8a75189446afba67c96b58f42757bf7aa355364f2e11cee705f33f"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Bongos/BongoH_Hit1_v2_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bongos/BongoH_Hit1_v2_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "dd9b6239a151702966a995937f74ac022c9bb950c967277fbd16beaced0c9e1a"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Bongos/BongoH_Hit1_v3_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bongos/BongoH_Hit1_v3_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "e93ed5c0fbafc3f122ced7c56c3f08021d8616e96c81c42aa62c5f368111d001"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Bongos/BongoL_Hit1_v1_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bongos/BongoL_Hit1_v1_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "746f5c4d37cf956c083f0c98b74dd7b6f7daeda6405d7b1534bbc56f1b741e4a"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Bongos/BongoL_Hit1_v2_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bongos/BongoL_Hit1_v2_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "0ee22ac30a27a1e91fbba58e0c4b36b28ea6c508dad5f11b10bdb9db07f2b443"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Bongos/BongoL_Hit1_v3_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bongos/BongoL_Hit1_v3_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "07986a1bc54b31dafd9c7dc250e42a613977b320b33b2e4652d21332064de4eb"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Quinto_HitFM1_v1_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Quinto_HitFM1_v1_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "c316a657a46160ae7b41b4181d9941752606705a5f7d4fae24e18a9dc94ed7e4"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Quinto_HitFM1_v2_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Quinto_HitFM1_v2_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "92f9d0ea6694eadedd1ee55495a794fba5a3fe9b228c7d7d5c787f3c03690051"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Quinto_HitN_v1_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Quinto_HitN_v1_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "7ee442ad7d604433afebbb648e6dde63b7ca969973b2a215cfa26f104d597ed8"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Quinto_HitN_v2_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Quinto_HitN_v2_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "ccbc9514d58b0a18af1aff2cabd29be7516ecb5790c9bcb707be67a374829e4b"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Quinto_HitN_v3_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Quinto_HitN_v3_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "07fe0922f97a57969a3cbb706126de2d09d23f42f6390a9a9adac027d7741c7e"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Conga_HitN_v1_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Conga_HitN_v1_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "74bb1f4feb3ae739e229f47f54b66def0cd12adc0033e998091e6456a15eadd0"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Conga_HitN_v2_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Conga_HitN_v2_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "13d322c0e7a830cdbcbdc5a6e05566dfe3f5a073b7b82a3262d3f6fc10f96764"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Conga_HitN_v3_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Conga_HitN_v3_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "664365ac735d819c69cabbbae8a78d225fa73059e698ad8ca292c46cc03c6961"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Conga_HitFM_v1_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Conga_HitFM_v1_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "5b18eeab0a84fededac9f5749b4d6502ad1725df37538d1b572f2068c6ec5f53"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Conga_HitFM_v2_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Conga_HitFM_v2_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "1a24a11a7dae6fdc05405a706768a5b6d96ad534c95bee5d451aa49eedd84855"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Tumba_HitN_v2_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Tumba_HitN_v2_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "c61f662c8af0dc95fcfca81d8a319b71bafd6e4c59a168dceec799fbb7963a47"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Tumba_HitN_v3_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Tumba_HitN_v3_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "ac94b311b5e0f5cfbb27bda691cde3ef5bb8afb1b7c7bf5b7c736e6a1714f411"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Membranophones/Struck Membranophones/Conga/Tumba_HitN_v4_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Tumba_HitN_v4_rr1_Sum.wav",
+      "license": "CC0-1.0",
+      "sha256": "5504101dba1a22e133efb77147084e96565a7ff64535f94f2f3d8934f2b2895b"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Cabasa/Cabasa1_Hit_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Cabasa/Cabasa1_Hit_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "0290fec6f2e39d3757c6d69562ef50d47c4ec7da2e2947110e7738896b4f378d"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Claves/Claves1_Hit_v1_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Claves/Claves1_Hit_v1_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "19379cc794b9e50d4dc55200238e27091bedab63b7370eb625490c7a96631b34"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Claves/Claves1_Hit_v2_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Claves/Claves1_Hit_v2_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "bcabe27330761309eb4b4f6207e6e3b4be59815df86449ac05bfb9b81f19efc9"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Claves/Claves1_Hit_v3_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Claves/Claves1_Hit_v3_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "12285f65ed125f4140d1e8a86b2d6a08bf3283b7bf30c10d68290b8e8230a927"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Woodblock/wood_click_f_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Woodblock/wood_click_f_rr1.wav",
+      "license": "CC0-1.0",
+      "sha256": "86b690a393ad62d65dc6832948adb0cc164fe22f544a8065809f000c65d615fc"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Woodblock/wood_click2_mp.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Woodblock/wood_click2_mp.wav",
+      "license": "CC0-1.0",
+      "sha256": "cfb04b07ceb70b6056ab1849cbbba53f658b4453982a6f44b4a05e19676361dd"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Triangles/Triangle1_HitM_v1_rr2_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Triangles/Triangle1_HitM_v1_rr2_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "260790ef70630f0b05f63f845a775011b020aadb3389c5ca68c9f6cf58f69bfc"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Triangles/Triangle1_Hit_v1_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Triangles/Triangle1_Hit_v1_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "0397199e59671937bde1e5d29fc2e74946e6c56889cc196e5053f33644f17ff7"
+    },
+    {
+      "title": "Versilian Community Sample Library (VCSL): Idiophones/Struck Idiophones/Triangles/Triangle1_Hit_v2_rr1_Mid.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VCSL/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Triangles/Triangle1_Hit_v2_rr1_Mid.wav",
+      "license": "CC0-1.0",
+      "sha256": "bec62db48c6a052bff1b54f88c11fc6cb6131b9633da2afb35636291754971af"
+    }
+  ],
+  "instruments": [
+    {
+      "id": "kit",
+      "name": "Hand Percussion",
+      "kind": "drumKit",
+      "pads": [
+        {
+          "note": 60,
+          "name": "Bongo High",
+          "layers": [
+            {
+              "file": "bongo-high-1.wav",
+              "maxVelocity": 42
+            },
+            {
+              "file": "bongo-high-2.wav",
+              "maxVelocity": 85
+            },
+            {
+              "file": "bongo-high-3.wav"
+            }
+          ]
+        },
+        {
+          "note": 61,
+          "name": "Bongo Low",
+          "layers": [
+            {
+              "file": "bongo-low-1.wav",
+              "maxVelocity": 42
+            },
+            {
+              "file": "bongo-low-2.wav",
+              "maxVelocity": 85
+            },
+            {
+              "file": "bongo-low-3.wav"
+            }
+          ]
+        },
+        {
+          "note": 62,
+          "name": "Quinto Slap",
+          "layers": [
+            {
+              "file": "quinto-slap-1.wav",
+              "maxVelocity": 64
+            },
+            {
+              "file": "quinto-slap-2.wav"
+            }
+          ]
+        },
+        {
+          "note": 63,
+          "name": "Quinto Open",
+          "layers": [
+            {
+              "file": "quinto-open-1.wav",
+              "maxVelocity": 42
+            },
+            {
+              "file": "quinto-open-2.wav",
+              "maxVelocity": 85
+            },
+            {
+              "file": "quinto-open-3.wav"
+            }
+          ]
+        },
+        {
+          "note": 64,
+          "name": "Conga Open",
+          "layers": [
+            {
+              "file": "conga-open-1.wav",
+              "maxVelocity": 42
+            },
+            {
+              "file": "conga-open-2.wav",
+              "maxVelocity": 85
+            },
+            {
+              "file": "conga-open-3.wav"
+            }
+          ]
+        },
+        {
+          "note": 65,
+          "name": "Conga Slap",
+          "layers": [
+            {
+              "file": "conga-slap-1.wav",
+              "maxVelocity": 64
+            },
+            {
+              "file": "conga-slap-2.wav"
+            }
+          ]
+        },
+        {
+          "note": 66,
+          "name": "Tumba Open",
+          "layers": [
+            {
+              "file": "tumba-open-1.wav",
+              "maxVelocity": 42
+            },
+            {
+              "file": "tumba-open-2.wav",
+              "maxVelocity": 85
+            },
+            {
+              "file": "tumba-open-3.wav"
+            }
+          ]
+        },
+        {
+          "note": 69,
+          "name": "Cabasa",
+          "file": "cabasa-1.wav"
+        },
+        {
+          "note": 75,
+          "name": "Claves",
+          "layers": [
+            {
+              "file": "claves-1.wav",
+              "maxVelocity": 42
+            },
+            {
+              "file": "claves-2.wav",
+              "maxVelocity": 85
+            },
+            {
+              "file": "claves-3.wav"
+            }
+          ]
+        },
+        {
+          "note": 76,
+          "name": "Wood High",
+          "file": "wood-high-1.wav"
+        },
+        {
+          "note": 77,
+          "name": "Wood Low",
+          "file": "wood-low-1.wav"
+        },
+        {
+          "note": 80,
+          "name": "Triangle Mute",
+          "file": "triangle-mute-1.wav",
+          "choke": 1
+        },
+        {
+          "note": 81,
+          "name": "Triangle Open",
+          "layers": [
+            {
+              "file": "triangle-open-1.wav",
+              "maxVelocity": 64
+            },
+            {
+              "file": "triangle-open-2.wav"
+            }
+          ],
+          "choke": 1
+        }
+      ]
+    }
+  ]
+}

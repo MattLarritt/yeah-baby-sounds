@@ -1,0 +1,35 @@
+# Rebuilds index.json (the catalog the app reads) whenever a package changes.
+# A broken package fails this check with a readable error and the catalog is left as it was.
+name: Build catalog
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: [index.json]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check packages
+        run: python3 tools/samplepack.py check
+      - name: Build index.json
+        run: python3 tools/samplepack.py index
+      - name: Commit index.json
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet -- index.json; then echo "index.json unchanged"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git commit -m "Rebuild index.json"
+          git push
