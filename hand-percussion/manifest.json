@@ -3,7 +3,7 @@
   "formatVersion": 1,
   "id": "hand-percussion",
   "name": "Hand Percussion",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "yeah baby. (curated from VCSL)",
   "summary": "Bongos, congas, cabasa, claves, woodblocks and triangle, with velocity layers.",
   "license": {
@@ -202,7 +202,10 @@
             {
               "file": "bongo-high-3.wav"
             }
-          ]
+          ],
+          "label": "Bongo Hi",
+          "color": "#DEA84A",
+          "icon": "bongos"
         },
         {
           "note": 61,
@@ -219,7 +222,10 @@
             {
               "file": "bongo-low-3.wav"
             }
-          ]
+          ],
+          "label": "Bongo Lo",
+          "color": "#DEA84A",
+          "icon": "bongos"
         },
         {
           "note": 62,
@@ -232,7 +238,10 @@
             {
               "file": "quinto-slap-2.wav"
             }
-          ]
+          ],
+          "label": "Quinto Slap",
+          "color": "#D6786E",
+          "icon": "bongos"
         },
         {
           "note": 63,
@@ -249,7 +258,10 @@
             {
               "file": "quinto-open-3.wav"
             }
-          ]
+          ],
+          "label": "Quinto",
+          "color": "#D6786E",
+          "icon": "bongos"
         },
         {
           "note": 64,
@@ -266,7 +278,10 @@
             {
               "file": "conga-open-3.wav"
             }
-          ]
+          ],
+          "label": "Conga",
+          "color": "#E08A5A",
+          "icon": "bongos"
         },
         {
           "note": 65,
@@ -279,7 +294,10 @@
             {
               "file": "conga-slap-2.wav"
             }
-          ]
+          ],
+          "label": "Conga Slap",
+          "color": "#E08A5A",
+          "icon": "bongos"
         },
         {
           "note": 66,
@@ -296,12 +314,18 @@
             {
               "file": "tumba-open-3.wav"
             }
-          ]
+          ],
+          "label": "Tumba",
+          "color": "#C8B07A",
+          "icon": "bongos"
         },
         {
           "note": 69,
           "name": "Cabasa",
-          "file": "cabasa-1.wav"
+          "file": "cabasa-1.wav",
+          "label": "Cabasa",
+          "color": "#8CB566",
+          "icon": "shaker"
         },
         {
           "note": 75,
@@ -318,23 +342,35 @@
             {
               "file": "claves-3.wav"
             }
-          ]
+          ],
+          "label": "Claves",
+          "color": "#54A8AD",
+          "icon": "diamond"
         },
         {
           "note": 76,
           "name": "Wood High",
-          "file": "wood-high-1.wav"
+          "file": "wood-high-1.wav",
+          "label": "Wood Hi",
+          "color": "#6FB3D2",
+          "icon": "square"
         },
         {
           "note": 77,
           "name": "Wood Low",
-          "file": "wood-low-1.wav"
+          "file": "wood-low-1.wav",
+          "label": "Wood Lo",
+          "color": "#6FB3D2",
+          "icon": "square"
         },
         {
           "note": 80,
           "name": "Triangle Mute",
           "file": "triangle-mute-1.wav",
-          "choke": 1
+          "choke": 1,
+          "label": "Tri Mute",
+          "color": "#9487DB",
+          "icon": "triangle"
         },
         {
           "note": 81,
@@ -348,7 +384,10 @@
               "file": "triangle-open-2.wav"
             }
           ],
-          "choke": 1
+          "choke": 1,
+          "label": "Triangle",
+          "color": "#9487DB",
+          "icon": "triangle"
         }
       ]
     }

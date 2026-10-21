@@ -1,0 +1,317 @@
+{
+  "format": "yeahbaby.pad-icons",
+  "formatVersion": 1,
+  "note": "The ids a pad's \"icon\" may use. Copied from the app's shared icon set (Assets/PadIcons/icons.json); don't edit here.",
+  "icons": [
+    {
+      "id": "kick",
+      "name": "Kick",
+      "category": "Drums"
+    },
+    {
+      "id": "snare",
+      "name": "Snare",
+      "category": "Drums"
+    },
+    {
+      "id": "tom",
+      "name": "Tom",
+      "category": "Drums"
+    },
+    {
+      "id": "hihat",
+      "name": "Hi-Hat",
+      "category": "Drums"
+    },
+    {
+      "id": "hihat-open",
+      "name": "Open Hi-Hat",
+      "category": "Drums"
+    },
+    {
+      "id": "cymbal",
+      "name": "Cymbal",
+      "category": "Drums"
+    },
+    {
+      "id": "clap",
+      "name": "Clap",
+      "category": "Drums"
+    },
+    {
+      "id": "shaker",
+      "name": "Shaker",
+      "category": "Drums"
+    },
+    {
+      "id": "cowbell",
+      "name": "Cowbell",
+      "category": "Drums"
+    },
+    {
+      "id": "tambourine",
+      "name": "Tambourine",
+      "category": "Drums"
+    },
+    {
+      "id": "bongos",
+      "name": "Bongos",
+      "category": "Drums"
+    },
+    {
+      "id": "drum",
+      "name": "Drum",
+      "category": "Drums"
+    },
+    {
+      "id": "piano",
+      "name": "Piano",
+      "category": "Instruments"
+    },
+    {
+      "id": "keys",
+      "name": "Keys",
+      "category": "Instruments"
+    },
+    {
+      "id": "guitar",
+      "name": "Guitar",
+      "category": "Instruments"
+    },
+    {
+      "id": "electric-guitar",
+      "name": "Electric Guitar",
+      "category": "Instruments"
+    },
+    {
+      "id": "bass",
+      "name": "Bass",
+      "category": "Instruments"
+    },
+    {
+      "id": "mic",
+      "name": "Mic",
+      "category": "Instruments"
+    },
+    {
+      "id": "vocal",
+      "name": "Vocal",
+      "category": "Instruments"
+    },
+    {
+      "id": "bell",
+      "name": "Bell",
+      "category": "Instruments"
+    },
+    {
+      "id": "bell-ring",
+      "name": "Ringing Bell",
+      "category": "Instruments"
+    },
+    {
+      "id": "metronome",
+      "name": "Metronome",
+      "category": "Instruments"
+    },
+    {
+      "id": "waveform",
+      "name": "Waveform",
+      "category": "Sound"
+    },
+    {
+      "id": "levels",
+      "name": "Levels",
+      "category": "Sound"
+    },
+    {
+      "id": "waves",
+      "name": "Waves",
+      "category": "Sound"
+    },
+    {
+      "id": "speaker",
+      "name": "Speaker",
+      "category": "Sound"
+    },
+    {
+      "id": "headphones",
+      "name": "Headphones",
+      "category": "Sound"
+    },
+    {
+      "id": "radio",
+      "name": "Radio",
+      "category": "Sound"
+    },
+    {
+      "id": "vinyl",
+      "name": "Vinyl",
+      "category": "Sound"
+    },
+    {
+      "id": "note",
+      "name": "Note",
+      "category": "Sound"
+    },
+    {
+      "id": "notes",
+      "name": "Notes",
+      "category": "Sound"
+    },
+    {
+      "id": "sliders",
+      "name": "Sliders",
+      "category": "Sound"
+    },
+    {
+      "id": "volume",
+      "name": "Volume",
+      "category": "Sound"
+    },
+    {
+      "id": "zap",
+      "name": "Zap",
+      "category": "FX"
+    },
+    {
+      "id": "flame",
+      "name": "Flame",
+      "category": "FX"
+    },
+    {
+      "id": "sparkles",
+      "name": "Sparkles",
+      "category": "FX"
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "category": "FX"
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "category": "FX"
+    },
+    {
+      "id": "hand",
+      "name": "Hand",
+      "category": "FX"
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "category": "FX"
+    },
+    {
+      "id": "bomb",
+      "name": "Bomb",
+      "category": "FX"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "category": "FX"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "category": "FX"
+    },
+    {
+      "id": "skull",
+      "name": "Skull",
+      "category": "FX"
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "category": "FX"
+    },
+    {
+      "id": "sun",
+      "name": "Sun",
+      "category": "FX"
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "category": "FX"
+    },
+    {
+      "id": "droplet",
+      "name": "Droplet",
+      "category": "FX"
+    },
+    {
+      "id": "wind",
+      "name": "Wind",
+      "category": "FX"
+    },
+    {
+      "id": "snowflake",
+      "name": "Snowflake",
+      "category": "FX"
+    },
+    {
+      "id": "siren",
+      "name": "Siren",
+      "category": "FX"
+    },
+    {
+      "id": "megaphone",
+      "name": "Megaphone",
+      "category": "FX"
+    },
+    {
+      "id": "reverse",
+      "name": "Reverse",
+      "category": "FX"
+    },
+    {
+      "id": "repeat",
+      "name": "Repeat",
+      "category": "FX"
+    },
+    {
+      "id": "infinity",
+      "name": "Infinity",
+      "category": "FX"
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "category": "FX"
+    },
+    {
+      "id": "orbit",
+      "name": "Orbit",
+      "category": "FX"
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "category": "Shapes"
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "category": "Shapes"
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "category": "Shapes"
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "category": "Shapes"
+    },
+    {
+      "id": "hexagon",
+      "name": "Hexagon",
+      "category": "Shapes"
+    }
+  ]
+}

@@ -5,11 +5,11 @@
     {
       "id": "hand-percussion",
       "name": "Hand Percussion",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "summary": "Bongos, congas, cabasa, claves, woodblocks and triangle, with velocity layers.",
       "author": "yeah baby. (curated from VCSL)",
       "path": "hand-percussion/",
-      "bytes": 1873795,
+      "bytes": 1874948,
       "license": "CC0-1.0",
       "instruments": [
         {
@@ -20,8 +20,8 @@
       "files": [
         {
           "path": "manifest.json",
-          "bytes": 16183,
-          "sha256": "33acf734f708e85def1665b33f596e7a957ed2cffc9b447e870c41fa9859280c"
+          "bytes": 17336,
+          "sha256": "10900aff174623899d88c17522e971b99469b505b3f1ac10e0863335ebb4ab07"
         },
         {
           "path": "bongo-high-1.wav",

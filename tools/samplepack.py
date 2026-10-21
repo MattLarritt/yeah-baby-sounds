@@ -17,6 +17,8 @@ INDEX_FORMAT = "yeahbaby.sample-index"
 AUDIO = {".wav", ".aif", ".aiff", ".caf", ".flac", ".mp3", ".m4a"}
 ID = re.compile(r"^[a-z0-9][a-z0-9-]{0,63}$")
 NOTE = re.compile(r"^[A-Ga-g](#|b)?-?\d$")
+COLOR = re.compile(r"^#[0-9A-Fa-f]{6}$")
+ICONS = {i["id"] for i in json.load(open(os.path.join(ROOT, "tools", "pad-icons.json"), encoding="utf-8"))["icons"]}
 
 
 class Problem(Exception):
@@ -95,6 +97,13 @@ def check(folder):
                 if not note_ok(note): raise Problem(f"{name}/{iid}: pad note {note!r} isn't 0-127 or a name like \"C2\"")
                 if note in notes: raise Problem(f"{name}/{iid}: two pads on note {note}")
                 notes.add(note)
+                pname = pad.get("name")
+                if "label" in pad and (not isinstance(pad["label"], str) or not 0 < len(pad["label"]) <= 16):
+                    raise Problem(f"{name}/{iid}: pad \"{pname}\" label must be 1-16 characters")
+                if "color" in pad and not (isinstance(pad["color"], str) and COLOR.match(pad["color"])):
+                    raise Problem(f"{name}/{iid}: pad \"{pname}\" color {pad['color']!r} must be \"#RRGGBB\"")
+                if "icon" in pad and pad["icon"] not in ICONS:
+                    raise Problem(f"{name}/{iid}: pad \"{pname}\" icon {pad['icon']!r} isn't in tools/pad-icons.json")
         elif inst.get("kind") == "instrument":
             if not inst.get("zones") and "sfz" not in inst: raise Problem(f"{name}/{iid}: an instrument needs zones")
             for z in inst.get("zones", []):

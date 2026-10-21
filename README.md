@@ -88,6 +88,16 @@ Each pad is one note. A pad has one `file`, or several `layers` from soft to har
 - **`gain`:** linear; 1 = as recorded, 0.5 ≈ −6 dB.
 - **`choke`:** pads with the same number cut each other off, e.g. a closed hat stops the open hat.
 
+#### Pad look (optional)
+
+```json
+{ "note": 36, "name": "Kick", "file": "kick.wav", "label": "Kick", "color": "#DEA84A", "icon": "kick" }
+```
+
+- **`label`:** short text on the pad, 1–16 characters. Defaults to `name`; VoiceOver always reads `name`.
+- **`color`:** `"#RRGGBB"`. The pad is tinted with it, and filled with it while it plays. Leave it out to use the track's colour. Muted colours suit the app; the pad designer offers a matching palette.
+- **`icon`:** an id from [`tools/pad-icons.json`](tools/pad-icons.json): drums (`kick`, `snare`, `tom`, `hihat`, `hihat-open`, `cymbal`, `clap`, `shaker`, `cowbell`, `tambourine`, `bongos`, `drum`), instruments, sound, FX and shapes. Leave it out for no icon. An app older than the icon shows the pad without it.
+
 ### A pitched instrument
 
 Each zone is one recorded note. Give its `root` (the pitch it was recorded at); the app works out the key ranges halfway between neighbouring roots unless you give `low`/`high`.
@@ -149,5 +159,5 @@ Only add sounds that may be redistributed inside an app: your own recordings, CC
 ## Examples
 
 Both examples are curated from the CC0 [Versilian Community Sample Library](https://github.com/sgossner/VCSL):
-- **hand-percussion:** a 13-pad drum kit (bongos, congas, cabasa, claves, woodblocks, triangle with mute choke), 1.9 MB.
+- **hand-percussion:** a 13-pad drum kit with pad colours, labels and icons (bongos, congas, cabasa, claves, woodblocks, triangle with mute choke), 1.9 MB.
 - **harpsichord:** a 28-zone pitched instrument with automatic key splits, 6.5 MB.
